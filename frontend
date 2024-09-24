@@ -5,7 +5,7 @@ function App() {
  return (
     <div className="App">
       <header className="App-header">
-        <h1>Remini</h1>
+        <h1>Qadify</h1>
         <h2>AI Enhanced Photo & Video</h2>
         <h3>Your ultimate solution for digital enhancement</h3>
       </header>
@@ -24,7 +24,7 @@ function App() {
               accuracy.
             </li>
             <li>
-              <strong>One-Click Editing:</strong> Use Remini's cutting-edge AI
+              <strong>One-Click Editing:</strong> Use Quadify's cutting-edge AI
               technology to instantly enhance your visuals.
             </li>
           </ul>
