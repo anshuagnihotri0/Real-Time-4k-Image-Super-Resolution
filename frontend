@@ -44,10 +44,7 @@ function App() {
       </main>
 
       <footer className="App-footer">
-        <p>
-          Copyright © {new Date().getFullYear()} Remini. All rights reserved.
-        </p>
-      </footer>
+       </footer>
     </div>
  );
 }
